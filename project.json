@@ -1,0 +1,13 @@
+{
+    "icon": "icon.png",
+    "name": "project-name",
+    "identifier": "aerell",
+    "description": "project-description",
+    "version": [1, 0, 0],
+    "minecraft_min_version": [1, 19, 0],
+    "type": {
+        "addon": {
+            "build": true
+        }
+    }
+}
